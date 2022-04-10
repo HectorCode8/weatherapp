@@ -12,7 +12,7 @@ body {
   background-image: url('./assets/cold-bg.jpg');
   background-size: cover;
   background-position: bottom;
-  transition: 0.4 ease-out;
+  transition: 1s ease-out;
 }
 
 .app.warm {
@@ -89,12 +89,13 @@ main {
   font-weight: 900;
   text-align: center;
   text-shadow: 3px 6px rgba(50, 50, 70, 0.5);
+  box-shadow: 3px 6px rgba(0, 0, 0, 0.2);
 }
 
 .weather-box .weather {
   color: #FFF;
-  font-size: 32px;
-  font-weight: 300;
+  font-size: 48px;
+  font-weight: 700;
   text-align: center;
   text-shadow: 3px 3px rgba(50, 50, 70, 0.5);
 }
