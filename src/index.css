@@ -85,10 +85,10 @@ main {
   border-radius: 16px;
   padding: 15px 25px;
   color: #FFF;
-  font-size: 64px;
-  font-weight: 300;
+  font-size: 102px;
+  font-weight: 900;
   text-align: center;
-  text-shadow: 3px 3px rgba(50, 50, 70, 0.5);
+  text-shadow: 3px 6px rgba(50, 50, 70, 0.5);
 }
 
 .weather-box .weather {
