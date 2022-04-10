@@ -1,5 +1,4 @@
 import React, {useState} from 'react'
-import Footer from './components/Footer.js';
 
 const api = {
   key: 'a090194e49581285a8695371a8c3352d',
@@ -66,7 +65,6 @@ function App() {
         </div>
         ) : ('')}
       </main>
-      <Footer />
     </div>
     
   );
